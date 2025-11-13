@@ -5,7 +5,7 @@ This repository contains Python and Stan code, data, and documentation for the a
 - `/stan/` — Stan model files  
 - `/data/` — Processed data  
 - `/notebooks/` — Jupyter notebooks  
-- `/scripts/` — Python uscripts  
+- `/scripts/` — Python scripts  
 
 ## How to cite
 If you use this repository, please cite:  
