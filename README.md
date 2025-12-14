@@ -1,11 +1,11 @@
 # urban-biodiversity-dce
 Data and code for urban biodiversity DCE.
-This repository contains Python and Stan code, data, and documentation for the analysis of willingness-to-pay for increased key indicator species biodiversity sightings in Greater Manchester.
+This repository contains Python scripts and Stan code, data, and documentation for the analysis of willingness-to-pay for increased indicator species biodiversity sightings in Greater Manchester, United Kingdom.
 ## Contents
-- `/stan/` — Stan model files  
+- `/code/` — Stan model files  
 - `/data/` — Processed data  
 - `/notebooks/` — Jupyter notebooks  
-- `/scripts/` — Python scripts  
+- `/scripts/` — code, data and notebook folders contain respective python scripts  
 
 ## How to cite
 If you use this repository, please cite:  
