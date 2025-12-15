@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17943012.svg)](https://doi.org/10.5281/zenodo.17943012)
 # urban-biodiversity-dce
 Data and code for urban biodiversity DCE.
 This repository contains Python scripts and Stan code, data, and documentation for the analysis of willingness-to-pay for increased indicator species biodiversity sightings in Greater Manchester, United Kingdom.
