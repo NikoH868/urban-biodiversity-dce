@@ -10,4 +10,4 @@ This repository contains Python scripts and Stan code, data, and documentation f
 
 ## How to cite
 If you use this repository, please cite:  
-> [Howai, N and Balcombe, K], (2025). *Urban Biodiversity DCE Project in Greater Manchester*. GitHub repository: https://github.com/NikoH868/urban-biodiversity-dce
+> [names removed], (2025). *Urban Biodiversity DCE Project in Greater Manchester*. GitHub repository: https://github.com/NikoH868/urban-biodiversity-dce
